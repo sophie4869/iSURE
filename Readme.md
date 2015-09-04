@@ -1,4 +1,4 @@
-Github Page: https://github.com/sophie4869/iSURE.git
+Github Page: https://github.com/sophie4869/iSURE
 
 Python: 2.7.6
 
